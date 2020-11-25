@@ -25,7 +25,7 @@ ggplot(ces, aes(x = white, y = ces_3_0_score))+
   geom_hex() +
   labs(x = "White population",
        y = "CES Score",
-       title = "Pollution burden measued as CES for White population")+
+       title = "CES burden measued for White population")+
   scale_fill_gradient(low = "navy", high = "orange") +
   theme_minimal()
 ```
