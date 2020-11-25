@@ -30,3 +30,10 @@ ggplot(ces, aes(x = white, y = ces_3_0_score))+
   theme_minimal()
 ```
 
+According to the figure above, higher percent white populations have lower CES scores. In areas with low percent white populations, there are higher counts of CES scores around 50. However, higher percent white populations have much lower CES scores.  
+
+
+
+
+
+
